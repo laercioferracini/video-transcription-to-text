@@ -1,4 +1,3 @@
-import moviepy.editor as mp
 import speech_recognition as sr
 import moviepy.editor as mp
 from pydub import AudioSegment
@@ -6,7 +5,7 @@ from pydub.utils import make_chunks
 import sys
 
 # colocar o diretório que está o seu vídeo na variável path 
-path = "./exemplo.mp4"
+path = "./1519047503.mp4"
 
 # convert mp4 paramp3
 
